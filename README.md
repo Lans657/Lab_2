@@ -1,7 +1,7 @@
 # Установка
 Склонируй репозиторий
 ```
-git clone https://github.com/CompleXss/lab2.git
+git clone https://github.com/Lans657/lab2.git
 ```
 
 Сделай ``chmod +x ./setup.sh``, чтобы дать разрешение скрипту ``setup.sh`` на исполнение
